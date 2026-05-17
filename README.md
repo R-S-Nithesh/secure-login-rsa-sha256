@@ -29,7 +29,9 @@ Built using **pure Python standard library only** — no external crypto package
 
 | RSA Demo Tab | Database Tab |
 |---|---|
-| ![RSA](screenshots/rsa_demo.png) | ![DB](screenshots/database.png) |
+|<img width="1919" height="982" alt="RSA Demo" src="https://github.com/user-attachments/assets/7ac23fa0-622f-4fc2-8086-4f9bb22abf13" />
+|<img width="1919" height="991" alt="DB" src="https://github.com/user-attachments/assets/ce1f0a13-004f-4587-ae33-51e14a5c95ff" />
+|
 
 ---
 

@@ -119,19 +119,6 @@ Login:         hash == SHA-256(stored_salt + entered_password) ?
 
 ---
 
-## 👨‍💻 Authors
-
-| Name | USN |
-|---|---|
-| [Student 1 Name] | [USN1] |
-| [Student 2 Name] | [USN2] |
-
-**College:** MVJ College of Engineering, Bengaluru  
-**University:** Visvesvaraya Technological University (VTU)  
-**Subject:** Cryptography and Network Security
-
----
-
 ## 📚 References
 
 1. William Stallings, *Cryptography and Network Security*, 8th Ed., Pearson, 2019

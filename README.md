@@ -119,15 +119,6 @@ Login:         hash == SHA-256(stored_salt + entered_password) ?
 
 ---
 
-## 📚 References
-
-1. William Stallings, *Cryptography and Network Security*, 8th Ed., Pearson, 2019
-2. R. Rivest, A. Shamir, L. Adleman — *A Method for Obtaining Digital Signatures*, ACM 1978
-3. NIST FIPS PUB 180-4 — Secure Hash Standard (SHA-256)
-4. OWASP Password Storage Cheat Sheet
-
----
-
 ## 📄 License
 
 MIT License — free to use for educational purposes.

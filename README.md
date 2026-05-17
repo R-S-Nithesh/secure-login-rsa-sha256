@@ -1,7 +1,7 @@
 # 🔐 Secure Login System — RSA + SHA-256
 
-> **VTU Cryptography & Network Security | Group Programming Assignment**  
-> MVJ College of Engineering, Bengaluru
+> **VTU Cryptography & Network Security**  
+> S.E.A College of Engineering, Bengaluru
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-purple)

@@ -25,7 +25,9 @@ Built using **pure Python standard library only** — no external crypto package
 
 | Register Tab | Login Tab |
 |---|---|
-| ![Register](<img width="1919" height="990" alt="Register" src="https://github.com/user-attachments/assets/98f2309d-422f-4570-bc44-bf13c58c5679"/>) | ![Login](screenshots/login.png) |
+| ![Register](<img width="1919" height="990" alt="Register" src="https://github.com/user-attachments/assets/7c98e411-0917-46e8-b10a-3a670f89fcde" />
+) | ![Login](<img width="1919" height="987" alt="login" src="https://github.com/user-attachments/assets/39c78ea3-6eef-47a0-b651-49e9dc34e632" />
+) |
 
 | RSA Demo Tab | Database Tab |
 |---|---|

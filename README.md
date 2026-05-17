@@ -72,7 +72,7 @@ secure-login-rsa-sha256/
 
 ### Run
 ```bash
-git clone https://github.com/YOUR_USERNAME/secure-login-rsa-sha256.git
+git clone https://github.com/R-S-Nithesh/secure-login-rsa-sha256.git
 cd secure-login-rsa-sha256
 python main_gui.py
 ```

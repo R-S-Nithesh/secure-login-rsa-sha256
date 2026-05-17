@@ -56,7 +56,6 @@ secure-login-rsa-sha256/
 ├── rsa_engine.py        # RSA algorithm from scratch (keygen, encrypt, decrypt)
 ├── password_hasher.py   # SHA-256 + salt hashing and verification
 ├── user_database.py     # JSON-based user storage
-│
 ├── users_db.json        # Auto-created on first registration (gitignored)
 ├── screenshots/         # App screenshots for README
 ├── README.md

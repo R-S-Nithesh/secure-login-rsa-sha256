@@ -25,11 +25,11 @@ Built using **pure Python standard library only** — no external crypto package
 
 | Register Tab | Login Tab |
 |---|---|
-| ![Register](screenshots/register.png) | ![Login](screenshots/login.png) |
+| ![Register](screenshots/Register.png) | ![Login](screenshots/login.png) |
 
 | RSA Demo Tab | Database Tab |
 |---|---|
-| ![RSA](screenshots/rsa_demo.png) | ![DB](screenshots/DB.png) |
+| ![RSA](screenshots/RSA_Demo.png) | ![DB](screenshots/DB.png) |
 
 ---
 
